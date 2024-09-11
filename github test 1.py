@@ -1,9 +1,9 @@
 def print_hello():
-    print("Hello World!")
+    print("Hello .Over World!")
 
-if __name__ == '__maiin__':
+if __name__ == '__main__':
     print_hello()
-print("hello")
-print("im lee min gyu")
+print("hello kitty")
+print("lee min gyu")
 
-print("왜 안되냐 시발 깃허브")
+print("깃허브")
